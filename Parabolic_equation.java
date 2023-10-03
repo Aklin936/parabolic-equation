@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class Task {
+public class Parabolic_equation {
 ArrayList<Double> ux, uy, yx, yy, bx, by;
 ArrayList<Double> grnorm = new ArrayList<Double>();
 int amount_time, amount_dots, n_step;
